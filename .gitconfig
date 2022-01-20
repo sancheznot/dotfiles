@@ -1,0 +1,7 @@
+[user]
+	name = sancheznot
+	email = sancheznotdev@gmail.com
+[credential]
+	helper = store
+[sancheznot]
+	helper = store
